@@ -1,0 +1,11 @@
+{
+    "name": "roberts91/acf-shortcode-tabs",
+    "type": "wordpress-plugin",
+    "description": "Shortcode tabs for the content based on ACF.",
+    "authors": [
+        {
+            "name": "Robert Sæther",
+            "email": "robert.sather@outlook.com"
+        }
+    ]
+}
